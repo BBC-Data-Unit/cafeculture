@@ -1,5 +1,6 @@
 # Coffee shops on the march as pubs decline, town centre data shows 
 
+![](https://raw.githubusercontent.com/BBC-Data-Unit/cafeculture/master/chartsnip.JPG)
 
 
 ## Data
